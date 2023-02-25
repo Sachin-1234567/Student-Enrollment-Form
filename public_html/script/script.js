@@ -11,6 +11,7 @@ var studentDatabaseName = 'SCHOOL-DB';
 var studentRelationName = 'STUDENT-TABLE';
 var connectionToken = '90932520|-31949277313819391|90949185';
 
+
 $('#rollNo').focus();
 
 
